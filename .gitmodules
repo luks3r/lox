@@ -1,0 +1,7 @@
+[submodule "clox"]
+path = clox
+url = https://github.com/luks3r/clox
+
+[submodule "jlox"]
+path = jlox
+url = https://github.com/luks3r/jlox
